@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Heloo, world"
+A script that prints “Hello, World”
